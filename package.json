@@ -1,6 +1,7 @@
 {
-  "name": "versioncheckr",
-  "version": "0.0.3",
+  "name": "versioncheckr",,
+  "blah": "blah",
+  "version": "0.0.0",
   "description": "GitHub App to check if NPM versions get bumped during pull requests",
   "main": "versioncheckr.js",
   "scripts": {
