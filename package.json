@@ -1,5 +1,5 @@
 {
-  "name": "versioncheckr",
+  "name": "versioncheckrr",
   "version": "0.0.3",
   "description": "GitHub App to check if NPM versions get bumped during pull requests",
   "main": "versioncheckr.js",
