@@ -4,7 +4,7 @@
    "actions" : "操作",
    "active" : "活动",
    "active_courses" : "活跃课程",
-   "activity_type" : "活动类型",
+   "activity_type" : "活动类型```",
    "add_admin" : "添加管理员",
    "add_admins_by_name" : "按名称添加管理员",
    "add_admins_confirm_info" : "{type, select, one_one {{selected} 将被添加为 {affected} 组的管理员。} one_many {{count} 个用户将被添加为 {affected} 组的管理员。} other {}}",
