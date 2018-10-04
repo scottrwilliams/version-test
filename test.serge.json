@@ -1,6 +1,6 @@
 {
   "name": “Test”,
-  "source_dir": "locales",
+  "source_dir": "locale",
   "output_file_path": "locales/%LANG%.json",
   "output_lang_rewrite": [
     "ar-sa ar",
