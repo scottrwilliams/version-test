@@ -1,5 +1,5 @@
 {
-  "name": “Test”,
+  "name": "Test",
   "source_dir": "locale",
   "output_file_path": "locales/%LANG%.json",
   "output_lang_rewrite": [
